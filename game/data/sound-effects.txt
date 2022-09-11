@@ -1,0 +1,7 @@
+6
+1 audio/effects/select.wav
+2 audio/effects/progress.wav
+3 audio/effects/shoot-player.wav
+4 audio/effects/shoot-enemy.wav
+5 audio/effects/explosion-player.wav
+6 audio/effects/explosion-enemy.wav

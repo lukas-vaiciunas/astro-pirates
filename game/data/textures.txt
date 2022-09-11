@@ -1,0 +1,21 @@
+20
+1 assets/ship-player.png
+2 assets/ship-enemy.png
+3 assets/skull.png
+101 assets/bullet-player.png
+102 assets/bullet-enemy.png
+201 assets/building-station.png
+301 assets/star-white.png
+302 assets/star-blue.png
+303 assets/star-purple.png
+304 assets/star-pink.png
+401 assets/particle-red.png
+402 assets/particle-orange.png
+403 assets/particle-yellow.png
+501 assets/alien.png
+502 assets/human.png
+601 assets/arrow.png
+602 assets/button.png
+603 assets/icon-health.png
+604 assets/icon-empty.png
+605 assets/icon-full.png
